@@ -1,47 +1,49 @@
 
-
 <div align="center">
 
-# 🌸 Hi, I'm Fahmina Afrin Ritu! 💗
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:DB7093&height=200&section=header&text=Hi,%20I'm%20Ritu!&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-### Aspiring Frontend Developer
+### 🌸 Aspiring Frontend Developer 🌸
 
 🎓 CST Student | 🇧🇩 Bangladesh
 
-🌷 Learning something new every day!
+💗 Learning and Growing Every Day 💗
 
 ---
 
-### 💕 About Me
+## 🎀 About Me
 
-- 🎓 Computer Science & Technology Student
-- 💻 Learning Frontend Development
-- 🌱 Currently learning HTML & CSS
-- 🎯 Dream: Full Stack Developer
-- 💗 I love creating beautiful websites
+🌷 I'm a Computer Science & Technology student.
 
----
+🌷 I'm learning Frontend Development.
 
-### 🎀 My Skills
+🌷 Currently learning HTML & CSS.
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+🌷 My dream is to become a Full Stack Developer.
 
 ---
 
-### 🌷 My Goal
+## 💖 My Skills
 
-"Learning every day, growing every day."
+<img src="https://img.shields.io/badge/HTML-FF69B4?style=for-the-badge&logo=html5&logoColor=white" />
 
-💖 I believe every expert was once a beginner.
+<img src="https://img.shields.io/badge/CSS-DB7093?style=for-the-badge&logo=css3&logoColor=white" />
 
 ---
 
-### 💌 Thank You for Visiting!
+## 🌷 My Goal
 
-Made with 💗 by Ritu
+"Learning every day, growing every day!"
+
+---
+
+### 💕 Thanks for Visiting My Profile!
+
+**Made with 💗 by Ritu**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FF69B4,100:DB7093&height=100&section=footer" width="100%" />
 
 </div>
+
 
 
