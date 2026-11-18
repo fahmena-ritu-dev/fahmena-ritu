@@ -1,33 +1,47 @@
 
-# 👋 Hi, I'm Ritu!
+<div align="center">
 
-### 💜 Aspiring Frontend Developer
+# 🌸 Hi, I'm Fahmina Afrin Ritu! 💗
 
-🎓 Computer Science & Technology Student
+### Aspiring Frontend Developer
 
-📍 Bangladesh 🇧🇩
+🎓 CST Student | 🇧🇩 Bangladesh
+
+🌷 Learning something new every day!
 
 ---
 
-### 🌸 About Me
+### 💕 About Me
 
-- 💻 I'm learning Frontend Development.
-- 🌱 Currently learning HTML, CSS & JavaScript.
-- 🎯 My dream is to become a Full Stack Developer.
-- 💡 I love learning new things.
+- 🎓 Computer Science & Technology Student
+- 💻 Learning Frontend Development
+- 🌱 Currently learning HTML & CSS
+- 🎯 Dream: Full Stack Developer
+- 💗 I love creating beautiful websites
 
-### 🛠️ My Skills
+---
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- Python
+### 🎀 My Skills
 
-### 💫 My Goal
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 
-Learning every day, growing every day!
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-❤️ Thanks for visiting my profile!
+---
+
+### 🌷 My Goal
+
+"Learning every day, growing every day."
+
+💖 I believe every expert was once a beginner.
+
+---
+
+### 💌 Thank You for Visiting!
+
+Made with 💗 by Ritu
+
+</div>
+
 
 
